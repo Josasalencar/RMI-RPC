@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Servidor">
+    <output-path>$PROJECT_DIR$/out/artifacts/Servidor</output-path>
+    <root id="archive" name="JogoPPD_RMI_Josafa.jar">
+      <element id="module-output" name="JogoPPD_RMI_Josafa" />
+    </root>
+  </artifact>
+</component>
